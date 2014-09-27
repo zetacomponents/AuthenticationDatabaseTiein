@@ -1,4 +1,4 @@
-1.2 - Saturday 20 September 2014
+1.2 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Save and restore GET and SERVER arrays to not interfere with other tests.
@@ -10,6 +10,7 @@
 - Fixed #ZETACOMP-33: Many dead links (404)
 - Remove custom test runner.
 - Fix autoloading with composer
+
 
 1.1 - Monday 17 December 2007
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
